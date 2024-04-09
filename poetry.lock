@@ -988,6 +988,16 @@ files = [
 ]
 
 [[package]]
+name = "onedrivesdk"
+version = "2.0.1"
+description = "Deprecated OneDrive SDK. Install `onedrivesdk<2` for legacy versions."
+optional = false
+python-versions = "*"
+files = [
+    {file = "onedrivesdk-2.0.1-py2.py3-none-any.whl", hash = "sha256:4cd4b7a2ed326d7bb13d4006bcb5d65837e08b542d460fd49e187acb5d51e62d"},
+]
+
+[[package]]
 name = "openai"
 version = "1.16.2"
 description = "The official Python library for the openai API"
@@ -1622,4 +1632,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "35de90b071eebd9caeb6743fa557f844d6670b28aad05e5231bb52074301d983"
+content-hash = "4899970aedf7df6747cd74dbf29e4230028ce73c4bd25fd15984a7234f6644fc"

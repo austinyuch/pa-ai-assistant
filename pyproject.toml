@@ -14,6 +14,7 @@ numpy = "^1.26.4"
 pyyaml = "^6.0.1"
 langchain = "^0.1.14"
 openai = "^1.16.2"
+onedrivesdk = "^2.0.1"
 
 
 [build-system]

@@ -1,0 +1,9 @@
+social_settings:
+  - type: facebook
+    page_id: 123456789
+    page_access_token: "EAA..."
+    app_secret: "..."
+  - type: instagram
+    page_id: 123456789
+    page_access_token: ".."
+    app_secret: ".."
