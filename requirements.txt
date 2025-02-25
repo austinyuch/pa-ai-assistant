@@ -1,0 +1,14 @@
+yfinance 
+matplotlib
+
+tensorflow 
+scikit-learn 
+requests 
+polars 
+numpy 
+pyyaml 
+langchain 
+openai
+matplotlib
+ultralytics
+opencv-python-headless
